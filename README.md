@@ -20,8 +20,8 @@ Before running this application, you need:
 1. Node.js (v14 or higher)
 2. npm (Node Package Manager)
 3. A Twitter API bearer token
-   - You can obtain this by creating a developer account at [Twitter Developer Portal](https://developer.twitter.com/)
-   - Create a project and app to get your bearer token
+   - You can get a free key here: [Twitter Developer Portal](https://developer.twitter.com/)
+   - Create a project and app to get your bearer token. Please Please PLEASE do not share the key to anyone
 
 ## Installation
 
