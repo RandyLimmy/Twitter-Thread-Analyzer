@@ -25,11 +25,7 @@ Before running this application, you need:
 
 ## Installation
 
-1. Clone this repository:
-   ```
-   git clone <repository-url>
-   cd twitter-thread-analyzer
-   ```
+1. Clone this repository (ofc)
 
 2. Install dependencies:
    ```
