@@ -1,6 +1,6 @@
 # Twitter Thread Analyzer
 
-A tool to extract contact information from Twitter/X thread replies.
+A tool to extract PUBLIC contact information from Twitter/X thread replies.
 
 ## Description
 
